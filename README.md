@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, I'm @Andy-Schuster 👋
+- 📫 How to reach me: andybschuster@gmail.com
+- ⚡ Fun fact:
+  
+Thanks for visiting 
+
 
 <!--
 **Andy-Schuster/Andy-Schuster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
